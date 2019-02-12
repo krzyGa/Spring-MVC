@@ -1,7 +1,5 @@
 package com.packt.webstore.controller;
 
-import com.packt.webstore.domain.Product;
-import com.packt.webstore.domain.repository.ProductRepository;
 import com.packt.webstore.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
